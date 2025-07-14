@@ -1,1 +1,1 @@
-# SyncRoyalty.io
+# SyncRoyalty.github.io
